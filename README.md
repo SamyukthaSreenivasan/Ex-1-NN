@@ -37,12 +37,48 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-TYPE YOUR CODE HERE
+```
+Developed by: Samyuktha S
+Register Number: 212222240089
+```
+![image](https://github.com/user-attachments/assets/1c34a042-8470-4e5e-a833-b2fd7c44486a)
 
+![image](https://github.com/user-attachments/assets/1bfd5298-5e6d-45b1-befe-bf6946ac11e9)
+
+![image](https://github.com/user-attachments/assets/c7e7c2fd-777c-4c00-b637-125e2786aab6)
+
+![image](https://github.com/user-attachments/assets/4acd45ee-d24d-4fbf-95ad-bd5e989deaca)
+
+![image](https://github.com/user-attachments/assets/ba255c5b-e62b-4b38-8766-c45a2e3222d4)
+
+![image](https://github.com/user-attachments/assets/4b85fd3b-6f4e-47d3-a310-d1478266be85)
+
+![image](https://github.com/user-attachments/assets/72081cc2-ce09-44f7-ba7f-14fa59b85e5e)
+
+![image](https://github.com/user-attachments/assets/90014357-d715-4d5f-b1a5-c8af0abf7de4)
+
+![image](https://github.com/user-attachments/assets/198a7bc3-6af3-48e9-bc87-3f12ea958557)
+
+![image](https://github.com/user-attachments/assets/f8ff09a9-b3d3-4b19-a570-cf94add83ba5)
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+![image](https://github.com/user-attachments/assets/c9284546-62f8-4817-a3ce-208ee482ae4c)
 
+![image](https://github.com/user-attachments/assets/d7090e0f-3878-43ef-9919-f2aacedf1527)
+
+![image](https://github.com/user-attachments/assets/9aa23013-2ca1-4acf-8de9-e076bf7786f3)
+
+![image](https://github.com/user-attachments/assets/9b4bebd1-3e4b-4961-8dd2-6fe0ffc66930)
+
+![image](https://github.com/user-attachments/assets/4f19cb06-b41e-431f-86d9-f7b9b9e467cb)
+
+![image](https://github.com/user-attachments/assets/eba36568-3573-485c-9df2-918c4e71199d)
+
+![image](https://github.com/user-attachments/assets/7887167e-ab65-4231-a6ae-a186f52a93c4)
+
+![image](https://github.com/user-attachments/assets/a435f8f4-164d-46b2-9945-1081330cdce1)
+
+![image](https://github.com/user-attachments/assets/81321bdf-46b6-4255-b870-7683a4541304)
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
