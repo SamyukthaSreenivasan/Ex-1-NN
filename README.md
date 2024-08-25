@@ -80,6 +80,7 @@ Register Number: 212222240089
 
 ![image](https://github.com/user-attachments/assets/81321bdf-46b6-4255-b870-7683a4541304)
 
+
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
 
